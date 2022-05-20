@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "89db948a9e5385e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce42b1d18c69fc3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "fa245c19bcefbe14",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f60b1011f527785",
+    "type": "split",
+    "children": [
+      {
+        "id": "760af7b96e33c0ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87f9997f21a7b5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c48cda464445c33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fbe4027e4fcc4e6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddb86251ceccb4b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08e95f9b3dd5292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e79fb8b3903b2478",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3cd426914e5878e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2ce42b1d18c69fc3",
+  "lastOpenFiles": [
+    "未命名文件夹/springboot-topic/1.SpringBoot概述.md",
+    "未命名文件夹/springboot-topic/SpringBoot 三大核心特性.md",
+    "未命名文件夹/未命名 1.md",
+    "未命名文件夹/未命名.md",
+    "未命名.md",
+    "java-develop/jenkins/Java 操作Jenkins API.md",
+    "java-develop/26.Spring Boot/22.MapstructN.md",
+    "java-develop/26.Spring Boot/22.BeanUtilS.md",
+    "java-develop/26.Spring Boot/21.SpringBootMybatisN.md",
+    "java-develop/25.springmvc/2.面向对象-summary.md"
+  ]
+}

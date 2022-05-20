@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "checkbox",
+    "custom-icons-for-frontmatter-tags",
+    "custom-icons-for-specific-folders",
+    "notation-colour-blocks",
+    "realistic-highlight"
+  ]
+}

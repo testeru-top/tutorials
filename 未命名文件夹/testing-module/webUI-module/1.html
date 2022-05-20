@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>个人信息页面</title>
+	<script type="text/javascript">
+		window.onload = function(){
+			document.getElementById("reset").onclick = function(){
+				document.getElementById("username").value="";
+				document.getElementById("pwd").value="";
+
+			}
+			document.getElementById("login").onclick = function(){
+				var username  = document.getElementById("username").value;
+				var password = document.getElementById("pwd").value;
+				alert("用户名:"+username+"\n密码:"+password);
+
+			}
+		}
+	</script>
+</head>
+<body>
+	<div id="div1" name="login" class="btn self-btn bg s_btn">
+		用户名:<input id="username" type="text" name=""><br/>
+		密码:<input id="pwd" type="password" name=""><br/>
+	</div>
+	<div id="div2" name="login" class="btn self-btn">
+		<input id="login" type="button" name="" value="登录">
+		<input id="reset" type="button" name="" value="重置">	
+	</div>
+
+	
+	
+ 性别:<input type="radio" name="sex">男
+	<input type="radio" name="sex">女<br/>
+	头像:<input type="file" name=""><br/>
+	住址:
+	<select>
+		<option>河北</option>
+		<option>北京</option>
+	</select>省
+	<select>
+		<option>邯郸</option>
+		<option>北京</option>
+	</select><br/>
+	爱好:<input type="checkbox">Java
+	<input type="checkbox">python
+	<input type="checkbox">c++<br/>
+	备注信息:<textarea value="">这是第一个作业</textarea>
+
+</body>
+</html>
