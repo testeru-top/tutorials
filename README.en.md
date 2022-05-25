@@ -1,36 +1,36 @@
-# turorials
-
-#### Description
-教程，对应课程内容及总结
-
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1.  按照顺序打开**File–>settings–>Editor–>File and Code Templates–>Includes**
+2.  输入类注释模板
 
 
-#### Gitee Feature
+```
+/**
+ * @Classname ${NAME}
+ * @Description TODO
+ * @Date ${DATE} ${TIME}
+ * @Created by ${USER}
+ */
+```
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+
+
+
+```
+/**  
+ * @Classname: ${NAME}  
+ * @Description: ${description}  
+ * @Date: ${DATE} ${TIME}  
+ * @Created by top.testeru  
+ */
+```
+
+
+
+![[Pasted image 20220523105328.png]]
+File–>settings–>Editor–>
+```
+
+
+/*  
+ * @Author: 霍格沃兹测试开发学社 * @Desc: '更多测试开发技术探讨，请访问：https://ceshiren.com/t/topic/15860' */
+```

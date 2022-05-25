@@ -4,19 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2ce42b1d18c69fc3",
+        "id": "4bfe5fe6d71aba96",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "tester-dev/appium/1. Appium安装N.md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "fa245c19bcefbe14",
+        "id": "8e0eff25f4e77c32",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "tester-dev/appium/1. Appium安装N.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -45,7 +51,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tester-dev/appium/1. Appium安装N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,27 +103,30 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tester-dev/appium/1. Appium安装N.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "2ce42b1d18c69fc3",
+  "active": "4bfe5fe6d71aba96",
   "lastOpenFiles": [
-    "未命名文件夹/springboot-topic/1.SpringBoot概述.md",
-    "未命名文件夹/springboot-topic/SpringBoot 三大核心特性.md",
-    "未命名文件夹/未命名 1.md",
-    "未命名文件夹/未命名.md",
-    "未命名.md",
-    "java-develop/jenkins/Java 操作Jenkins API.md",
-    "java-develop/26.Spring Boot/22.MapstructN.md",
-    "java-develop/26.Spring Boot/22.BeanUtilS.md",
-    "java-develop/26.Spring Boot/21.SpringBootMybatisN.md",
-    "java-develop/25.springmvc/2.面向对象-summary.md"
+    "tester-dev/appium/1. Appium安装N.md",
+    "未命名文件夹/appium-topic/1. Appium.md",
+    "java-dev/24.spring/08.IoCs.md",
+    "java-dev/24.spring/7.IoC的CRUD-纯注解.md",
+    "学习路线/5月.md",
+    "java-dev/24.spring/5.IoC的CRUD-xmlN.md",
+    "java-dev/24.spring/4.基于XML的IOC深⼊N.md",
+    "java-dev/24.spring/2.Spring的控制反转IoCN.md",
+    "java-dev/24.spring/ 1.Spring概述N.md",
+    "java-dev/24.spring/3.Spring的IoC⼊⻔N.md"
   ]
 }
