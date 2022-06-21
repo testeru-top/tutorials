@@ -4,29 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ff7ab96c5c5d0a61",
+        "id": "b3e6b1588cf34da6",
         "type": "leaf",
-        "dimension": 70.67448680351906,
+        "dimension": 54.64852607709751,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tester-dev/xUnit/JUnit5/11.数据驱动-Yaml解析.md",
+            "file": "tester-dev/xUnit/JUnit5/allure报告.md",
             "mode": "source"
           }
-        },
-        "group": "7e860aa64c2839c3"
+        }
       },
       {
         "id": "af82935353aba383",
         "type": "leaf",
-        "dimension": 29.32551319648094,
+        "dimension": 45.35147392290251,
         "state": {
           "type": "outline",
           "state": {
-            "file": "tester-dev/xUnit/JUnit5/11.数据驱动-Yaml解析.md"
+            "file": "tester-dev/xUnit/JUnit5/allure报告.md"
           }
-        },
-        "group": "7e860aa64c2839c3"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tester-dev/xUnit/JUnit5/11.数据驱动-Yaml解析.md",
+                "file": "tester-dev/xUnit/JUnit5/allure报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tester-dev/xUnit/JUnit5/11.数据驱动-Yaml解析.md"
+                "file": "tester-dev/xUnit/JUnit5/allure报告.md"
               }
             }
           }
@@ -119,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff7ab96c5c5d0a61",
+  "active": "b3e6b1588cf34da6",
   "lastOpenFiles": [
+    "tester-dev/xUnit/JUnit5/allure报告.md",
+    "tester-dev/appium/2.环境安装.md",
+    "tester-dev/appium/11.appium server 环境安装.md",
+    "tester-dev/appium/1. Appium概述.md",
+    "tester-dev/appium/3. Appium录制脚本及页面介绍N.md",
     "tester-dev/xUnit/JUnit5/11.数据驱动-Yaml解析.md",
     "tester-dev/xUnit/JUnit5/12.数据驱动-Yaml解析实战.md",
     "tester-dev/xUnit/JUnit5/多断言.md",
     "未命名文件夹/junit5-module/多断言.md",
-    "未命名文件夹/接口专题/REST Assured专题/1. 获取token.md",
-    "未命名文件夹/hamcrest/1.Hamcrest-Common-Core-Mathchers.md",
-    "README.en.md",
-    "未命名.md",
-    "未命名 1.md",
-    "tester-dev/xUnit/JUnit5/allure报告.md"
+    "未命名文件夹/接口专题/REST Assured专题/1. 获取token.md"
   ]
 }
