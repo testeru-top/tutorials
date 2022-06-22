@@ -4,24 +4,42 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "5bbcace1a4de0cb3",
+=======
+        "id": "b3e6b1588cf34da6",
+>>>>>>> bb2366260c405a2aaecb56070f4bae175ccedbca
         "type": "leaf",
+        "dimension": 54.64852607709751,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "未命名文件夹/hamcrest/2.String Comparison.md",
+=======
+            "file": "tester-dev/xUnit/JUnit5/allure报告.md",
+>>>>>>> bb2366260c405a2aaecb56070f4bae175ccedbca
             "mode": "source"
           }
         }
       },
       {
+<<<<<<< HEAD
         "id": "4be0368f9e0c52bf",
+=======
+        "id": "af82935353aba383",
+>>>>>>> bb2366260c405a2aaecb56070f4bae175ccedbca
         "type": "leaf",
+        "dimension": 45.35147392290251,
         "state": {
-          "type": "markdown",
+          "type": "outline",
           "state": {
+<<<<<<< HEAD
             "file": "tester-dev/junit5/未命名.md",
             "mode": "preview"
+=======
+            "file": "tester-dev/xUnit/JUnit5/allure报告.md"
+>>>>>>> bb2366260c405a2aaecb56070f4bae175ccedbca
           }
         }
       }
@@ -50,7 +68,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "hamcrest",
+=======
+                "query": "多断言",
+>>>>>>> bb2366260c405a2aaecb56070f4bae175ccedbca
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +109,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "未命名文件夹/hamcrest/2.String Comparison.md",
+=======
+                "file": "tester-dev/xUnit/JUnit5/allure报告.md",
+>>>>>>> bb2366260c405a2aaecb56070f4bae175ccedbca
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "未命名文件夹/hamcrest/2.String Comparison.md"
+=======
+                "file": "tester-dev/xUnit/JUnit5/allure报告.md"
+>>>>>>> bb2366260c405a2aaecb56070f4bae175ccedbca
               }
             }
           }
@@ -116,6 +146,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "5bbcace1a4de0cb3",
   "lastOpenFiles": [
     "未命名文件夹/hamcrest/2.String Comparison.md",
@@ -128,5 +159,19 @@
     "tester-dev/junit5/文件解析/excel/01.excel基本解析.md",
     "tester-dev/junit5/01./JUnit 5入门.md",
     "未命名文件夹/hamcrest/1.Hamcrest-Common-Core-Mathchers.md"
+=======
+  "active": "b3e6b1588cf34da6",
+  "lastOpenFiles": [
+    "tester-dev/xUnit/JUnit5/allure报告.md",
+    "tester-dev/appium/2.环境安装.md",
+    "tester-dev/appium/11.appium server 环境安装.md",
+    "tester-dev/appium/1. Appium概述.md",
+    "tester-dev/appium/3. Appium录制脚本及页面介绍N.md",
+    "tester-dev/xUnit/JUnit5/11.数据驱动-Yaml解析.md",
+    "tester-dev/xUnit/JUnit5/12.数据驱动-Yaml解析实战.md",
+    "tester-dev/xUnit/JUnit5/多断言.md",
+    "未命名文件夹/junit5-module/多断言.md",
+    "未命名文件夹/接口专题/REST Assured专题/1. 获取token.md"
+>>>>>>> bb2366260c405a2aaecb56070f4bae175ccedbca
   ]
 }
