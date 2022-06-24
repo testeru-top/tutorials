@@ -7,5 +7,6 @@
     "custom-icons-for-specific-folders",
     "notation-colour-blocks",
     "realistic-highlight"
-  ]
+  ],
+  "baseFontSize": 21
 }

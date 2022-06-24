@@ -49,7 +49,8 @@ File–>settings–>Editor–>
 
 
 /**  
- * @program: ${PROJECT_NAME} * @author: testeru.top  
+ * @program: ${PROJECT_NAME} 
+ *  @author: testeru.top  
  * @description: ${description}  
  * @Version 1.0   
 * @create: ${DATE} ${TIME}  
