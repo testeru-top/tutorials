@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tester-dev/selenium/jiaoan.md.md",
+            "file": "tester-dev/selenium/jiaoan.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "72490985cda03932",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tester-dev/selenium/jiaoan.md",
             "mode": "source"
           }
         }
@@ -20,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tester-dev/selenium/jiaoan.md.md",
+            "file": "tester-dev/selenium/jiaoan.md",
             "mode": "preview"
           }
         }
@@ -71,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6a67905a64b7802a",
@@ -88,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tester-dev/selenium/jiaoan.md.md",
+                "file": "tester-dev/selenium/jiaoan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tester-dev/selenium/jiaoan.md.md"
+                "file": "tester-dev/selenium/jiaoan.md"
               }
             }
           }
@@ -116,9 +126,9 @@
     "direction": "horizontal",
     "width": 151.5
   },
-  "active": "c9b0afdfa31d7c2c",
+  "active": "72490985cda03932",
   "lastOpenFiles": [
-    "tester-dev/selenium/jiaoan.md.md",
+    "tester-dev/selenium/jiaoan.md",
     "tester-dev/selenium/wechat.md",
     "tester-dev/selenium/1.md",
     "install/02. Docker 安装 Jenkins.md",
