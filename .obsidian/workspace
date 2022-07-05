@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d50380ae0e3d917c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "tester-dev/selenium/jiaoan.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "72490985cda03932",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tester-dev/selenium/jiaoan.md",
+            "file": "appium/元素定位.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "c9b0afdfa31d7c2c",
+        "id": "19fffe6d33a5b2cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tester-dev/selenium/jiaoan.md",
+            "file": "appium/元素定位工具对比讲解.md",
             "mode": "preview"
           }
         }
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tester-dev/selenium/jiaoan.md",
+                "file": "appium/元素定位.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tester-dev/selenium/jiaoan.md"
+                "file": "appium/元素定位.md"
               }
             }
           }
@@ -124,19 +113,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 151.5
+    "width": 239.5
   },
   "active": "72490985cda03932",
   "lastOpenFiles": [
+    "appium/元素定位.md",
+    "appium/元素定位工具对比讲解.md",
+    "tester-dev/appium/3. Appium录制脚本及页面介绍N.md",
     "tester-dev/selenium/jiaoan.md",
     "tester-dev/selenium/wechat.md",
     "tester-dev/selenium/1.md",
     "install/02. Docker 安装 Jenkins.md",
     "install/02. Centos 7.* 安装Docker.md",
     "install/01. Linux相关命令.md",
-    "install/01. Docker 安装 mysql8.0.md",
-    "未命名.md",
-    "README.en.md",
-    "教案/JUnit5-2-2022.06.22.md"
+    "install/01. Docker 安装 mysql8.0.md"
   ]
 }
