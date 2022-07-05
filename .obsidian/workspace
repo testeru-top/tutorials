@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "appium/元素定位.md",
+            "file": "appium/元素定位工具对比讲解.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appium/元素定位.md",
+                "file": "appium/元素定位工具对比讲解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appium/元素定位.md"
+                "file": "appium/元素定位工具对比讲解.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "72490985cda03932",
   "lastOpenFiles": [
-    "appium/元素定位.md",
     "appium/元素定位工具对比讲解.md",
     "tester-dev/appium/3. Appium录制脚本及页面介绍N.md",
+    "tester-dev/appium/4. 用例脚本解析优化N.md",
+    "tester-dev/appium/2.环境安装.md",
+    "tester-dev/appium/元素常用属性方法N.md",
+    "tester-dev/appium/11.appium server 环境安装.md",
+    "tester-dev/appium/5.等待N.md",
+    "appium/元素定位.md",
     "tester-dev/selenium/jiaoan.md",
-    "tester-dev/selenium/wechat.md",
-    "tester-dev/selenium/1.md",
-    "install/02. Docker 安装 Jenkins.md",
-    "install/02. Centos 7.* 安装Docker.md",
-    "install/01. Linux相关命令.md",
-    "install/01. Docker 安装 mysql8.0.md"
+    "tester-dev/selenium/wechat.md"
   ]
 }
