@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "halo/js滑动语句.md",
+            "file": "halo/web-2.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "40b9a51d4b78f6b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "halo/web-2.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "halo/js滑动语句.md",
+                "file": "halo/web-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "halo/js滑动语句.md"
+                "file": "halo/web-2.md"
               }
             }
           }
@@ -102,10 +113,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "active": "72490985cda03932",
   "lastOpenFiles": [
+    "halo/web-2.md",
     "halo/js滑动语句.md",
     "appium/元素定位.md",
     "appium/元素定位工具对比讲解.md",
@@ -114,7 +127,6 @@
     "tester-dev/appium/2.环境安装.md",
     "tester-dev/appium/元素常用属性方法N.md",
     "tester-dev/appium/11.appium server 环境安装.md",
-    "tester-dev/appium/5.等待N.md",
-    "tester-dev/selenium/jiaoan.md"
+    "tester-dev/appium/5.等待N.md"
   ]
 }
