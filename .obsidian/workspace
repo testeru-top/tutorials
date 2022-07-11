@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "appium/01. Appium Server安装.md",
+            "file": "appium/02. uiautomator2.md",
             "mode": "source"
           }
         }
@@ -34,7 +34,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "appium/01. Appium Server安装.md"
+            "file": "appium/02. uiautomator2.md"
           }
         }
       }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appium/01. Appium Server安装.md",
+                "file": "appium/02. uiautomator2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appium/01. Appium Server安装.md"
+                "file": "appium/02. uiautomator2.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "c1debd00cd9e00da",
   "lastOpenFiles": [
-    "appium/01. Appium Server安装.md",
     "appium/02. uiautomator2.md",
+    "appium/01. Appium Server安装.md",
     "appium/03. 元素定位工具.md",
     "appium/05. 高级定位技巧-css 定位与原生定位.md",
     "appium/04. 高级定位技巧-xpath.md",
