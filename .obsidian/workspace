@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "72490985cda03932",
+        "id": "c1debd00cd9e00da",
         "type": "leaf",
+        "dimension": 39.795918367346935,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "halo/web-2.md",
+            "file": "appium/01. Appium Server安装.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "40b9a51d4b78f6b2",
+        "id": "cd3a0e2e074f1e11",
         "type": "leaf",
+        "dimension": 39.795918367346935,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "halo/web-2.md",
+            "file": "appium/01. Appium Server安装.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "6564907d3632c0cd",
+        "type": "leaf",
+        "dimension": 20.408163265306122,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "appium/01. Appium Server安装.md"
           }
         }
       }
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "halo/web-2.md",
+                "file": "appium/01. Appium Server安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "halo/web-2.md"
+                "file": "appium/01. Appium Server安装.md"
               }
             }
           }
@@ -116,17 +129,17 @@
     "width": 239.5,
     "collapsed": true
   },
-  "active": "72490985cda03932",
+  "active": "c1debd00cd9e00da",
   "lastOpenFiles": [
-    "halo/web-2.md",
-    "halo/js滑动语句.md",
-    "appium/元素定位.md",
+    "appium/01. Appium Server安装.md",
+    "appium/02. uiautomator2.md",
+    "appium/03. 元素定位工具.md",
+    "appium/05. 高级定位技巧-css 定位与原生定位.md",
+    "appium/04. 高级定位技巧-xpath.md",
+    "未命名 1.md",
+    "Pasted image 20220523105328.png",
+    "学习路线/2022.md",
     "appium/元素定位工具对比讲解.md",
-    "tester-dev/appium/3. Appium录制脚本及页面介绍N.md",
-    "tester-dev/appium/4. 用例脚本解析优化N.md",
-    "tester-dev/appium/2.环境安装.md",
-    "tester-dev/appium/元素常用属性方法N.md",
-    "tester-dev/appium/11.appium server 环境安装.md",
-    "tester-dev/appium/5.等待N.md"
+    "appium/元素定位.md"
   ]
 }
